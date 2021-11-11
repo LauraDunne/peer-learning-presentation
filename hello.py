@@ -9,6 +9,6 @@ ans = int(input("Please enter 1 or 2 :"))
 if ans == 1:
     leap_year.leap_year_function()
 
-if ans = 2:
+if ans === 2:
     primes.print_primes()
 
