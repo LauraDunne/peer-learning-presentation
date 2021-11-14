@@ -1,10 +1,13 @@
 import leap_year
 import primes
 
+# talking to user
 print("Hello User, you are looking well today!")
 print("Would you like to:")
 print("1: Check if a year is a leap year?")
 print("2: Print the prime numbers up to a given integer?")
+
+#asking for input
 ans = int(input("Please enter 1 or 2 :"))
 
 if ans == 1:
